@@ -23,4 +23,6 @@ By mapping these datasets, the project highlights critical performance indicator
 *   `data/` — Contains anonymized sample datasets or staging files.
 *   `dashboard/` — Contains the core dashboard file (e.g., Excel Workbook, Power BI / Tableau file, or script files).
 *   `README.md` — Project overview and technical documentation.
-*
+
+## Screenshort
+Preview:(https://github.com/ajk200623-dot/mental-Health-awareness-Dashboard-/blob/main/Snapshot%20of%20Dashboard.png)
